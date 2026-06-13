@@ -105,7 +105,7 @@
     "cross-spawn": "^7.0.6",
     "dotenv-expand": "^13.0.0",
     "es-module-lexer": "^1.7.0",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "escape-html": "^1.0.3",
     "estree-walker": "^3.0.3",
     "etag": "^1.8.1",
@@ -136,7 +136,7 @@
     "strip-literal": "^3.1.0",
     "terser": "^5.47.1",
     "ufo": "^1.6.4",
-    "ws": "^8.20.1"
+    "ws": "^8.21.0"
   },
   "peerDependencies": {
     "@types/node": "^20.19.0 || >=22.12.0",
